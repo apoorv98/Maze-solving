@@ -4,7 +4,7 @@ Solving real world maze by taking picture of it from normal cell phone camera an
 The code is in MATLAB format and the robot uses arduino. 
 MATLAB to Arduino has been used to complete this project.
 
-Some of the image processing operations involved include:
+Some of the image processing operations involved include:                                               
 1. Dilation                                                                                       
 2. Erosion                                                              
 3. Pruing                                                       
