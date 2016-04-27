@@ -5,10 +5,10 @@ The code is in MATLAB format and the robot uses arduino.
 MATLAB to Arduino has been used to complete this project.
 
 Some of the image processing operations involved include:
-Markup : * Dilation 
-2. Erosion \\
-3. Pruing \\
-4. Skeleton \\
+1. Dilation                                                                                       
+2. Erosion                                                              
+3. Pruing                                                       
+4. Skeleton                                                                     
 
 The obtained path is then overlaid on the original image to visualize the results.
 The next step involves converting the pixels location in image to real world frame as per scale and also finding the direction with respect to previous pixel. 
