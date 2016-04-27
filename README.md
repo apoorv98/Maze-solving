@@ -5,7 +5,7 @@ The code is in MATLAB format and the robot uses arduino.
 MATLAB to Arduino has been used to complete this project.
 
 Some of the image processing operations involved include:
-1. Dilation \\
+Markup : * Dilation 
 2. Erosion \\
 3. Pruing \\
 4. Skeleton \\
